@@ -3,4 +3,4 @@ project(sem_7)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable (7 main.c shall.c input.c)
+add_executable (7 main.c shall.c input.c shall.h input.h swap.h)
